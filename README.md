@@ -9,7 +9,7 @@
 - [Acknowledgements](#acknowledgements)
 
 ### Project Installation <a name="installation"></a>
-#### Create a python environment or a conda environment to run the application.
+#### Create a python environment or a conda environment to run the code.
  -  Python Environment
     - Install Python 3.6.x version 
     - open command prompt and run following command to install required python dependencies
