@@ -44,4 +44,6 @@ winquality-red.csv : dataset in CSV format for this project
 The main findings of the code can be found at the post available at medium [here](https://medium.com/@deshmukhps95/exploratory-data-analysis-and-quality-prediction-on-red-wine-data-55a6f5936a6b)
 
 ### Acknowledgements<a name="acknowledgements"></a>
-The data is take from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality). It can also be found at [kaggle](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
+Credits to P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. for the dataset. Modeling wine preferences by data mining from physicochemical properties. 
+In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
+You can find the data here [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality).
