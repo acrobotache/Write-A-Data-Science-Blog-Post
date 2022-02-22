@@ -29,7 +29,7 @@ This is a Udacity Data Scientist Nanodegree project. The motivation behind this 
 It includes exploratory data analysis techniques to get insight from red wine data and analyses how different wine properties impact on the wine 'quality'. 
 Further, it considers below questions to get insight from the data.
 1. How different features are correlated with each other?
-2. Which feature are affecting the quality of wine?
+2. Which features are affecting the quality of wine?
 3. Are there any outliers present in the dataset?
 4. Can we think of building a classification model for predicting the wine quality?
 
